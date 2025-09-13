@@ -1,0 +1,25 @@
+# 忽略编译生成的文件
+*.exe
+*.dll
+*.lib
+*.o
+*.obj
+
+# 忽略调试信息文件
+*.pdb
+*.ilk
+
+# 忽略 IDE 生成的配置文件
+.vs/
+.vscode/
+.idea/
+
+# 忽略构建目录
+build/
+
+Debug/
+Release/
+ipch/
+
+*.suo
+*.user
